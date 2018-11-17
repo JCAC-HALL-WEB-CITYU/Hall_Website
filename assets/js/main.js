@@ -26,8 +26,8 @@
 
 	// Dropdowns.
 		$('#nav > ul').dropotron({
-			mode: 'fade',
-			noOpenerFade: true,
+			// mode: 'fade',
+			// noOpenerFade: true,
 			alignment: 'center'
 		});
 
